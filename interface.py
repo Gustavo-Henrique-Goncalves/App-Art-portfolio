@@ -1,5 +1,5 @@
 import customtkinter as ctk             # =- biblioteca para a interface grafica (frontEnd)
-from Database_customtkinter import *    # =- biblioteca para os dados (backEnd)
+from Database import *                  # =- biblioteca para os dados (backEnd)
 from tkinter import filedialog          # =- biblioteca para abrir uma tela apenas para abrir arquivos
 from PIL import Image                   # =- biblioteca para poder utilizar imagens
 
@@ -1566,4 +1566,5 @@ class Tela_PostsInfo(ctk.CTkFrame):
 # inicializa a variavel gerenciador
 app_manager = Gerenciador_Telas()   # Cria apenas uma janela
 app_manager.StartScreen()           # inicia a janela
+
 # =--------------------------------------------------------------------= 
