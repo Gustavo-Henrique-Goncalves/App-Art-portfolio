@@ -1,5 +1,7 @@
 Este software foi projetado para ser simples e intuitivo. Abaixo, explico como aproveitar cada funcionalidade das nossas telas:
 
+Para isso, compile o arquivo "interface.py" para conseguir usar o app!! 
+
 Acesso e Cadastro: Tudo começa na tela de Login. Se você já possui uma conta, basta entrar com suas credenciais. Caso contrário, o proprio sistema ja garante pelo menos um novo usuario caso não exista um anterior, mas caso o usuario ainda queira cadastrar um novo, a tela de Login permite que você crie um novo perfil para começar a organizar sua galeria, basta antes de clicar em entrar, clicar no botão de cadastrar que ele então deixara você colocar um novo usuario e uma nova senha para ser salva.
 Uma obsercação importante é que para que o programa realmente funcione, as pastas "database" e "img" precisam existir, o "database" para que o sistema salve os arquivos dentro dela as informações dos perfils e da lista de desenhos, e "img" para guardar as imagens que serão utilizadas.
 
